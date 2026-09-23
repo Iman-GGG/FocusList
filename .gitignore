@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Xcode user data and derived output
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# Locally built application bundle
+dist/
+
+# Intermediate icon-generation files (the build only needs AppIcon.icns and AppIconSource.png)
+Resources/AppIcon.iconset/
+Resources/AppIcon.tiff
+Resources/AppIconRounded.tiff
+Resources/AppIconRounded.png
+Resources/AppIconGenerated1024.png
