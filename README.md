@@ -2,6 +2,10 @@
 
 纯本地 macOS 任务管理应用，采用 SwiftUI / AppKit 构建，无账号、无网络请求、无第三方依赖。
 
+## 界面预览
+
+![FocusList 深色三栏任务管理界面](docs/focuslist-interface.png)
+
 ## 构建与运行
 
 ```bash
